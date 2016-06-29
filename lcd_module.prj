@@ -1,0 +1,3 @@
+vhdl work "data_converter.vhd"
+vhdl work "controller.vhd"
+vhdl work "lcd_module.vhd"

@@ -1,0 +1,5 @@
+set -tmpdir "/media/sujit/Windows/Users/sujit/Projects/lcd_module/xst/projnav.tmp"
+set -xsthdpdir "/media/sujit/Windows/Users/sujit/Projects/lcd_module/xst"
+elaborate
+-ifn data_converter.prj
+-ifmt mixed
